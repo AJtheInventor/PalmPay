@@ -24,3 +24,7 @@ p {
 .smaller {
   font-size: 33px
 }
+.stop{
+  font-size: 15px;
+  font-family: 'Verdana';
+}
